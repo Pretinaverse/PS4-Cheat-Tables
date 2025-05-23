@@ -6,3 +6,6 @@ Here I plan to compile the cheats I make <b>for my personal use</b>, using <b><a
 Right now I'm using <b>PS4 Cheater Neo v1.0.5</b> with <b>ps4debug v1.1.17</b>.
 
 <b>My firmware is 5.05, so I can't guarantee that my tables will work in other firmwares</b>.
+
+<b>Current Cheats:</b>
+—Atelier Yumia v1.10 (CUSA50766)
