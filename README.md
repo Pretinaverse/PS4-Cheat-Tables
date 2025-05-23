@@ -17,7 +17,7 @@
 <br />
 <h2>⚠️ Legal Disclaimer</h2>
 
-<p><strong>These cheat tables are provided for educational and personal offline use only.</strong> They are designed for use on consoles with custom firmware (jailbreak) in a non-commercial, offline context.</p>
+<p><strong>These cheat tables are provided for educational and personal offline use only.</strong> They are designed for use on consoles with jailbreak in a non-commercial, offline context.</p>
 
 <p><strong>No copyrighted material</strong> from Sony Interactive Entertainment, or any game developer or publisher, is included or distributed in this repository. These files contain only memory addresses and values discovered through reverse engineering.</p>
 
